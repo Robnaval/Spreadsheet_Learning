@@ -1,6 +1,9 @@
 # Spreadsheet_Learning
 Pondo em prática as aulas da DIO.
 
+![Static Badge](https://img.shields.io/badge/Robson-Neto-blue)
+![Static Badge](https://img.shields.io/badge/Planilhas-LibreOffice-green?style=plastic&logo=github&logoColor=green)
+
 ## Assuntos implementados na planilha:
 ```bash
 1. Criando tabelas dinâmicas
